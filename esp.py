@@ -14,9 +14,11 @@ import time
 # ESP32 Camera Stream URL
 # ESP32_URL = "http://192.168.173.230/capture"
 # ESP32_CONFIG_URL = "http://192.168.92.230/control?var=framesize&val={}"
-ESP32_URL = "http://10.169.230.254/capture"
-ESP32_CONFIG_URL = "http://10.169.230.254/control?var=framesize&val={}"
+# ESP32_URL = "http://10.169.230.254/capture"
+# ESP32_CONFIG_URL = "http://10.169.230.254/control?var=framesize&val={}"
 
+ESP32_URL = "http://10.13.106.254/capture"
+ESP32_CONFIG_URL = "http://10.169.230.254/control?var=framesize&val={}"
 
 # Firebase details
 #use your firebase auth and host 
