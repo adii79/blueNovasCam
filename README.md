@@ -25,3 +25,18 @@ Runs **all scripts together**:
 ### ▶ Command
 ```bash
 python3 run.py
+
+---
+
+## change url as yours
+
+---
+### Manually runs.
+
+### ▶ Command
+```bash
+python3 esp.py
+
+### ▶ Command
+```bash
+python3 fetch.py
